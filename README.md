@@ -3,6 +3,7 @@
 Disciplina: Resolução de Problemas com Grafos
 Orientador: Prof. Me Ricardo Carubbi
 
+Link do video: https://youtu.be/juUwotAmQj8
 ## Descrição
 
 Programa que modela um grafo cujos vértices representam os estados da região Nordeste do Brasil e cujas arestas representam fronteiras terrestres entre esses estados. Implementa os algoritmos DFS e BFS para explorar o grafo e responder perguntas sobre conectividade e caminhos.
